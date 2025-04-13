@@ -1,0 +1,3 @@
+Przykłady komendy uruchamiającej html-vaildate w taki sposób, aby wyświetliła listę błędów w pliku index.html:
+1) Jeśli html-validate jest zainstalowany globalnie (przy wpisaniu flagi -g): "html-validate index.html"
+2) Jeśli html-validate jest zinstalowany lokalnie (bez wpisania flagi -g): "npx html-validate index.html"
