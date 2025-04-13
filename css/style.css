@@ -8,19 +8,19 @@ body {
     text-align: center;
 }
 h1 {
-    color: #2c3e50;
+    color: #000000;
     font-size: 26px;  
 }
 h2 {
-    color: #2c3e50;
+    color: #000000;
     font-size: 20px;
 }
 h3 {
-    color: #333;
+    color: #1a00aa;
     font-size: 16px;
 }
 .tekst_piosenki, .info {
-    border: #2c3e50 solid 1px;
+    border: #1a00aa solid 3px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
